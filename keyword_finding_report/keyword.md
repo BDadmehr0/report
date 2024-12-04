@@ -53,7 +53,7 @@
 **نتایج بررسی‌ها در [Google Trends](https://trends.google.com/trends/explore?geo=IR&q=%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%A8%D9%87%20%D8%B9%D8%B1%D8%A7%D9%82,%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%B9%D8%B1%D8%A7%D9%82,%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D8%B2%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86,%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C&hl=en)** نشان داده شد که کدام کلمات کلیدی بیشترین ترافیک و روند جستجو را داشته‌اند.
 
 
-![Screenshot_2024-12-04_16-07-14.png](https://github.com/BDadmehr0/report/blob/main/Screenshot_2024-12-04_16-07-14.png "google trends result")
+![Screenshot_2024-12-04_16-07-14.png](https://github.com/BDadmehr0/report/blob/main/keyword_finding_report/Screenshot_2024-12-04_16-07-14.png "google trends result")
 
 ---
 
