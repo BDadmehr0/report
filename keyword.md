@@ -62,11 +62,13 @@
 
 من کیورد پلنر رو ران اندازی کردم و با جست و جوی محصول و کلمه های کلیدی بیزینسم بیش از هزارران کلیدواٰژه پیدا کردم و با google trends این کلید واژه هارو برسی کردم که چقدر ترند هستند :
 
+<html>
+
   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3898_RC01/embed_loader.js"></script>
   <script type="text/javascript">
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"صادرات به عراق","geo":"IR","time":"today 12-m"},{"keyword":"صادرات عراق","geo":"IR","time":"today 12-m"},{"keyword":"واردات از ایران","geo":"IR","time":"today 12-m"},{"keyword":"خدمات بازرگانی","geo":"IR","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=IR&q=%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%A8%D9%87%20%D8%B9%D8%B1%D8%A7%D9%82,%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%B9%D8%B1%D8%A7%D9%82,%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%20%D8%A7%D8%B2%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86,%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%20%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C&hl=en&date=today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"});
   </script>
-
+</html>
 
 ---
 
